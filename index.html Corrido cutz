@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>The Barber Shop</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+  </head>
+  <body>
+    <header>
+      <nav>
+        <ul>
+          <li><a href="#services">Services</a></li>
+          <li><a href="#about">About Us</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
+      <h1>The Barber Shop</h1>
+    </header>
+    <main>
+      <section id="services">
+        <h2>Services</h2>
+        <ul>
+          <li>Haircuts</li>
+          <li>Beard Trims</li>
+          <li>Shaves</li>
+          <li>Coloring</li>
+        </ul>
+      </section>
+      <section id="about">
+        <h2>About Us</h2>
+        <p>The Barber Shop is a family-owned business that has been serving the community for over 20 years. Our experienced barbers specialize in traditional and modern cuts, shaves, and grooming services. We use only the best products and tools to ensure that you leave looking and feeling your best.</p>
+      </section>
+      <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Address: 123 Main Street, Anytown USA</p>
+        <p>Phone: 555-555-5555</p>
+        <p>Email: info@thebarbershop.com</p>
+      </section>
+    </main>
+    <footer>
+      <p>Copyright ©2022 The Barber Shop</p>
+    </footer>
+  </body>
+</html>
